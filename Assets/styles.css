@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://1.bp.blogspot.com/-GjKJGwrzoJc/YPgn-T_sUsI/AAAAAAAAasg/dlyt5q9lnyET10yhD9jcEdzZiuWGjZAjQCLcBGAsYHQ/s1170/netflix-servico-distribuicao-jogos-mobile.jpg);
+    background-size: cover;
+    background-position: top center;
+}
+
+#heading {
+    background: rgba(0, 0, 0, 0.7);
+}
+
+#heading div {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+#heading .h1 {
+    padding: 15px 0;
+    font-size: 20px;
+    text-transform:
+    uppercase;
+}
+
+#heading a {
+   color: white;
+   text-decoration: none;
+   font-family: sans-serif;
+}
